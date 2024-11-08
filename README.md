@@ -14,7 +14,7 @@ The task is to classify the given genetic variations/mutations using evidence fr
 This can significantly enhance decision-making by providing insights into how specific genetic mutations are linked to cancer progression and treatment response, allowing for better-tailored therapies.
 
 
-## . Objective
+## Objective
 
 The primary objective is to accurately classify genetic variations and mutations based on evidence extracted from clinical text data. These predictions can be used to inform cancer diagnosis and provide personalized treatment plans.
 
